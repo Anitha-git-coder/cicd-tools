@@ -45,7 +45,7 @@ resource "aws_instance" "jenkins_agent" {
 #   instance_type = "t3.large"
 #   vpc_security_group_ids = [aws_security_group.main.id]
 #   subnet_id = "subnet-02399e83fd397cb03" #replace your Subnet in default VPC
-#   key_name = "daws-86s"
+#   key_name = "Anitha-git-coder"
 #   # need more for terraform
 #   root_block_device {
 #     volume_size = 20
